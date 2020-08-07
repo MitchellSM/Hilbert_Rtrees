@@ -1,7 +1,6 @@
 ﻿"""
 @NAME: Hilbert R-Trees
 @AUTHOR: Mitchell Sulz-Martin
-@S_ID: 001185643
 @DESC: An implementation of Hilbert R-Trees for 2D objects
 @LIMIT: Complexity of implementing a function to map
 the coordinates of a N-dimensional object to a hilbert value is beyond

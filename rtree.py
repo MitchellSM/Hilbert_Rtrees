@@ -1,6 +1,5 @@
 """
 Author: Mitchell Sulz-Martin
-ID: 001185643
 Date: Feburary 1, 2019
 Desc: Implimentation of R-tree
 """
